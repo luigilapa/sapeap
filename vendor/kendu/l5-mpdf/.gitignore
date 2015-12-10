@@ -1,0 +1,15 @@
+/vendor
+/bootstrap/compiled.php
+/bower_components
+/node_modules
+/build
+.dbPatch.log
+.builds
+.current.lock
+.stableBuilds.log
+*.*~
+*~
+.idea*
+/database/seeds/production/*
+/docs
+/components

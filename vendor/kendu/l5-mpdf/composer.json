@@ -1,0 +1,22 @@
+{
+    "name": "kendu/l5-mpdf",
+    "description": "mPDF wrapper for Laravel 5",
+    "version": "0.1",
+    "keywords": ["laravel","mpdf", "pdf"],
+    "authors": [
+        {
+            "name": "Kendu",
+            "email": "info@kendu.si"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "mpdf/mpdf": "5.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Kendu\\Mpdf": "src/"
+        }
+    },
+    "license": "Apache 2.0"
+}
